@@ -3,6 +3,7 @@
 ## Tidal Energy Technology Assessment and Implementation Plans in the Westfjords, Iceland | Summer 2025
 
 ### Abstract
+
 Iceland is a leading country in renewable energy production and prides itself on using the most energy per capita, since they have an abundance of it. The Westfjords are a northwest region that experiences harsh and extreme weather conditions that negatively affect their power infrastructure. The current electrical systems had 14 failures in 2013, which was a slight improvement from the 18 failures in 2009 and 2010 (Naderian et al. 2017). Since this region lacks hot spots for geothermal power and only has one major hydropower plant in Mjólká that has an installed capacity of 10.5 MW, the population relies on the National Grid lines, or the Landsnet, and diesel generators to fulfill demand (Orkubú Vestfjarða, 2025). Around the world, numerous companies have been attempting to harness renewable energy for decades, yet commercial applications remain scarce. Iceland can become one of the frontiers for tidal, as it did with geothermal, to help other countries learn how durable the technology is in harsher environments. 
 
 My paper examines deploying tidal energy in the Westfjords region, aiming to generate approximately 150 GWh per year to meet local energy demand. The study modeled three tidal technologies - the Valorka string turbine, Minesto Deep Green kite turbine, and EEL Energy oscillating hydrofoil - under tidal current speeds ranging from 1.2 to 1.8 m/s. For each device, I designed conceptual tidal power plants, analyzed their power output, efficiency, and environmental suitability to determine the most viable technology for the region’s conditions.
@@ -27,6 +28,7 @@ My paper examines deploying tidal energy in the Westfjords region, aiming to gen
 ## Analysis of Air Quality in Cedar Rapids, Iowa in 2004(Spring 2025)
 
 ### Abstract
+
 Cities around the United States deal with increased levels of air pollution compared to rural areas. Poor outdoor air quality causes major health issues such as respiratory issues, an increased probability of heart attacks, cancer, and more.3 In 1963, the United States established the Clean Air Act to reduce the emissions of air pollutants. The Environmental Protection Agency (EPA) created the National Ambient Air Quality Standards, or the NAAQS, which were set to regulate criteria pollutants in the air.2 The criteria pollutants include lead, carbon monoxide, particulate matter (PM 2.5 and PM 10), sulfur dioxide, NOx (or “nox”, which includes NO2 and NO), and ozone.
 
 ### My engagement
@@ -37,6 +39,7 @@ Using MATLAB, I did  analyze the measured maximum concentration of the stated po
 ## Tidal Energy Technology Assessment and Implementation Plans in the Westfjords, Iceland (Summer 2025)
 
 ### Abstract
+
 Iceland is a leading country in renewable energy production and prides itself on using the most energy per capita, since they have an abundance of it. The Westfjords are a northwest region that experiences harsh and extreme weather conditions that negatively affect their power infrastructure. The current electrical systems had 14 failures in 2013, which was a slight improvement from the 18 failures in 2009 and 2010 (Naderian et al. 2017). Since this region lacks hot spots for geothermal power and only has one major hydropower plant in Mjólká that has an installed capacity of 10.5 MW, the population relies on the National Grid lines, or the Landsnet, and diesel generators to fulfill demand (Orkubú Vestfjarða, 2025). 
 
 I did a deeper analysis for deploying the tidal energy off the coast of the Westfjords region. Around the world, numerous companies have been attempting to harness renewable energy for decades, yet commercial applications remain scarce. Iceland can become one of the forefronts for tidal, as it did with geothermal, to help other countries learn how durable the technology is in harsher environments. My paper examines what tidal energy technologies are currently being developed for slow-current conditions and their feasibility for implementation in the Westfjords region.
