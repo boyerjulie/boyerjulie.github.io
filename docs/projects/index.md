@@ -1,6 +1,11 @@
 # Projects
 
-This is the list of projects I worked on:
+## Tidal Energy Technology Assessment and Implementation Plans in the Westfjords, Iceland | Summer 2025
+
+### Abstract
+Iceland is a leading country in renewable energy production and prides itself on using the most energy per capita, since they have an abundance of it. The Westfjords are a northwest region that experiences harsh and extreme weather conditions that negatively affect their power infrastructure. The current electrical systems had 14 failures in 2013, which was a slight improvement from the 18 failures in 2009 and 2010 (Naderian et al. 2017). Since this region lacks hot spots for geothermal power and only has one major hydropower plant in Mjólká that has an installed capacity of 10.5 MW, the population relies on the National Grid lines, or the Landsnet, and diesel generators to fulfill demand (Orkubú Vestfjarða, 2025). Around the world, numerous companies have been attempting to harness renewable energy for decades, yet commercial applications remain scarce. Iceland can become one of the frontiers for tidal, as it did with geothermal, to help other countries learn how durable the technology is in harsher environments. 
+
+My paper examines deploying tidal energy in the Westfjords region, aiming to generate approximately 150 GWh per year to meet local energy demand. The study modeled three tidal technologies - the Valorka string turbine, Minesto Deep Green kite turbine, and EEL Energy oscillating hydrofoil - under tidal current speeds ranging from 1.2 to 1.8 m/s. For each device, I designed conceptual tidal power plants, analyzed their power output, efficiency, and environmental suitability to determine the most viable technology for the region’s conditions.
 
 ## Introduction to Energy, Environmental, and Chemical Engineering Projects (Fall Semester 2023)
  
