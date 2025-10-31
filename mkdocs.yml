@@ -83,4 +83,8 @@ nav:
     - About: index.md
     - Skills: skills.md
     - Projects: projects/index.md
+<<<<<<< Updated upstream
     - Resume: Resume.md
+=======
+    - Resume: resume.md
+>>>>>>> Stashed changes
