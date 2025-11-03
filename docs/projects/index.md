@@ -18,7 +18,7 @@ Cooking is a major contributor to poor indoor air quality as particulate matter 
 
 ## mini project -water (fall 2025)
 
-* Identified a stormwater issues in the Ellendate, MO and provided solutions (permeable pavements, improvements In stormwater discharge locations
+* Identified stormwater issues in the Ellendate, MO and provided solutions (permeable pavements, improvements In stormwater discharge locations
 * Used EPA Stormwater calculator to assess the runoff at the site
 * Used NRCS site assessment for a 100-year storm event
 
